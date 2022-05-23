@@ -1,0 +1,19 @@
+body{
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+h1
+{
+   color: mediumvioletred;
+   font-family: cursive;
+}
+button
+{
+    background-color: rgb(133, 255, 208);
+    color: mediumorchid;
+    font-family: cursive;
+    border-width: 5px;
+    border-color: midnightblue;
+    border-radius: 6px;
+}
